@@ -130,10 +130,3 @@ FROM src
   INSERT OVERWRITE LOCAL DIRECTORY '/tmp/dest4.out' SELECT src.value WHERE src.key >= 300;
 
 
-删
-
-查
-
-改
-
-
